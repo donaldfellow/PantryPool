@@ -1,0 +1,12 @@
+{
+	"name": "pantrypool",
+	"compatibility_date": "2026-08-13",
+	"pages_build_output_dir": "./dist",
+	"d1_databases": [
+		{
+			"binding": "pantrypool_db",
+			"database_name": "pantrypool-db",
+			"database_id": "4878d04e-0aa1-48d2-8bff-d9b63b888e4f"
+		}
+	]
+}
